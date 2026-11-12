@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+  <title id="title">Imagem de trotinete por adicionar</title>
+  <desc id="desc">Espaço reservado para fotografia de um modelo VoltRide.</desc>
+  <rect width="960" height="600" fill="#dfe4d8"/>
+  <path d="M0 430h960" stroke="#c5cec2" stroke-width="2"/>
+  <g fill="none" stroke="#245c46" stroke-linecap="round" stroke-linejoin="round" stroke-width="15">
+    <circle cx="300" cy="405" r="72"/><circle cx="700" cy="405" r="72"/>
+    <path d="M300 405h275l70-210h93M480 405l-64-170h-92M645 195l-70 210"/>
+  </g>
+  <text x="480" y="540" fill="#245c46" font-family="sans-serif" font-size="20" text-anchor="middle">IMAGEM DO MODELO A ADICIONAR</text>
+</svg>
